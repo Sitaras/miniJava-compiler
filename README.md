@@ -2,7 +2,7 @@
 
 #### Parts 
 
-Part 1: MiniJava Static Checking (Semantic Analysis)
+Part 1: MiniJava Static Checking (Semantic Analysis)\n
 Part 2: Generating intermediate code (MiniJava -> LLVM)
 
 ### Getting Started
