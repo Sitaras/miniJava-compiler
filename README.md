@@ -14,7 +14,10 @@ In order to see that the output of the produced LLVM IR files is the same as com
 sudo apt update && sudo apt install clang-4.0
 ```
 
-**Compilation command: make **
+#### Compilation command
+```
+make
+```
 
 ### Execution
 
