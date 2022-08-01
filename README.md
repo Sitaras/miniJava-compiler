@@ -1,5 +1,8 @@
 ## Mini Java Compiler
 
+This is a MiniJava-to-LLVM-IR compiler project, written in Java (with the help of JFlex, JavaCUP and JTB), originally introduced as an assignment for the compilers course (NKUA). Details about the project can be found here (sections homework 2 & 3). I thank Stefanos Baziotis for his MiniJava testsuite contribution!
+<hr/>
+
 #### Parts 
 
 Part 1: MiniJava Static Checking (Semantic Analysis)<br />
